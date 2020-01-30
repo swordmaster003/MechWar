@@ -1,0 +1,524 @@
+fileFormatVersion: 2
+guid: 493c18c5a8894014a8d77911218e07ba
+timeCreated: 1443722619
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: curve4
+    100002: footBase_left
+    100004: footBase_right
+    100006: hip
+    100008: ikHandle1
+    100010: ikHandle2
+    100012: ikHandle3
+    100014: ikHandle4
+    100016: ikHandle5
+    100018: ikHandle6
+    100020: joint10
+    100022: joint11
+    100024: joint12
+    100026: joint13
+    100028: joint23
+    100030: joint24
+    100032: joint25
+    100034: joint26
+    100036: left_foot_jnt
+    100038: left_frontToe_jnt
+    100040: left_frontToeEnd_jnt
+    100042: left_lowerLeg_jnt
+    100044: left_rearToe1_jnt
+    100046: left_rearToe2_jnt
+    100048: left_rearToeEnd1_jnt
+    100050: left_rearToeEnd2_jnt
+    100052: left_upperLeg_jnt
+    100054: leftFoot_controlCurve
+    100056: legLower_left
+    100058: legLower_right
+    100060: legUpper_left
+    100062: legUpper_right
+    100064: //RootNode
+    100066: right_foot_jnt
+    100068: right_frontToe_jnt
+    100070: right_frontToeEnd1_jnt
+    100072: right_frontToeEnd2_jnt
+    100074: right_frontToeEnd_jnt
+    100076: right_lowerLeg_jnt
+    100078: right_rearToe1_jnt
+    100080: right_rearToe2_jnt
+    100082: right_upperLeg_jnt
+    100084: rightFoot_controlCurve
+    100086: rocketPad_left
+    100088: rocketPad_right
+    100090: root_controlCurve
+    100092: root_jnt
+    100094: toeBack1_left
+    100096: toeBack1_left 1
+    100098: toeBack2_left
+    100100: toeBack2_left 1
+    100102: toeFront_left
+    100104: toeFront_right
+    100106: torso
+    100108: torso_jnt
+    100110: torsoEnd_jnt
+    400000: curve4
+    400002: footBase_left
+    400004: footBase_right
+    400006: hip
+    400008: ikHandle1
+    400010: ikHandle2
+    400012: ikHandle3
+    400014: ikHandle4
+    400016: ikHandle5
+    400018: ikHandle6
+    400020: joint10
+    400022: joint11
+    400024: joint12
+    400026: joint13
+    400028: joint23
+    400030: joint24
+    400032: joint25
+    400034: joint26
+    400036: left_foot_jnt
+    400038: left_frontToe_jnt
+    400040: left_frontToeEnd_jnt
+    400042: left_lowerLeg_jnt
+    400044: left_rearToe1_jnt
+    400046: left_rearToe2_jnt
+    400048: left_rearToeEnd1_jnt
+    400050: left_rearToeEnd2_jnt
+    400052: left_upperLeg_jnt
+    400054: leftFoot_controlCurve
+    400056: legLower_left
+    400058: legLower_right
+    400060: legUpper_left
+    400062: legUpper_right
+    400064: //RootNode
+    400066: right_foot_jnt
+    400068: right_frontToe_jnt
+    400070: right_frontToeEnd1_jnt
+    400072: right_frontToeEnd2_jnt
+    400074: right_frontToeEnd_jnt
+    400076: right_lowerLeg_jnt
+    400078: right_rearToe1_jnt
+    400080: right_rearToe2_jnt
+    400082: right_upperLeg_jnt
+    400084: rightFoot_controlCurve
+    400086: rocketPad_left
+    400088: rocketPad_right
+    400090: root_controlCurve
+    400092: root_jnt
+    400094: toeBack1_left
+    400096: toeBack1_left 1
+    400098: toeBack2_left
+    400100: toeBack2_left 1
+    400102: toeFront_left
+    400104: toeFront_right
+    400106: torso
+    400108: torso_jnt
+    400110: torsoEnd_jnt
+    2300000: footBase_left
+    2300002: footBase_right
+    2300004: hip
+    2300006: legLower_left
+    2300008: legLower_right
+    2300010: legUpper_left
+    2300012: legUpper_right
+    2300014: rocketPad_left
+    2300016: rocketPad_right
+    2300018: toeBack1_left
+    2300020: toeBack1_left 1
+    2300022: toeBack2_left
+    2300024: toeBack2_left 1
+    2300026: toeFront_left
+    2300028: toeFront_right
+    2300030: torso
+    3300000: footBase_left
+    3300002: footBase_right
+    3300004: hip
+    3300006: legLower_left
+    3300008: legLower_right
+    3300010: legUpper_left
+    3300012: legUpper_right
+    3300014: rocketPad_left
+    3300016: rocketPad_right
+    3300018: toeBack1_left
+    3300020: toeBack1_left 1
+    3300022: toeBack2_left
+    3300024: toeBack2_left 1
+    3300026: toeFront_left
+    3300028: toeFront_right
+    3300030: torso
+    4300000: torso
+    4300002: rocketPad_right
+    4300004: rocketPad_left
+    4300006: toeFront_right
+    4300008: toeBack1_left
+    4300010: toeBack2_left
+    4300012: footBase_right
+    4300014: legLower_right
+    4300016: legUpper_right
+    4300018: toeFront_left
+    4300020: toeBack1_left
+    4300022: toeBack2_left
+    4300024: footBase_left
+    4300026: legLower_left
+    4300028: legUpper_left
+    4300030: hip
+    7400000: idle
+    7400002: walk
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: leftFoot_controlCurve
+        weight: 1
+      - path: leftFoot_controlCurve/joint10
+        weight: 1
+      - path: leftFoot_controlCurve/joint10/joint11
+        weight: 1
+      - path: leftFoot_controlCurve/joint10/joint11/ikHandle3
+        weight: 1
+      - path: leftFoot_controlCurve/joint10/joint11/joint12
+        weight: 1
+      - path: leftFoot_controlCurve/joint10/joint11/joint12/ikHandle2
+        weight: 1
+      - path: leftFoot_controlCurve/joint10/joint11/joint12/joint13
+        weight: 1
+      - path: leftFoot_controlCurve/joint10/joint11/joint12/joint13/ikHandle1
+        weight: 1
+      - path: rightFoot_controlCurve
+        weight: 1
+      - path: rightFoot_controlCurve/joint23
+        weight: 1
+      - path: rightFoot_controlCurve/joint23/joint24
+        weight: 1
+      - path: rightFoot_controlCurve/joint23/joint24/ikHandle6
+        weight: 1
+      - path: rightFoot_controlCurve/joint23/joint24/joint25
+        weight: 1
+      - path: rightFoot_controlCurve/joint23/joint24/joint25/ikHandle5
+        weight: 1
+      - path: rightFoot_controlCurve/joint23/joint24/joint25/joint26
+        weight: 1
+      - path: rightFoot_controlCurve/joint23/joint24/joint25/joint26/ikHandle4
+        weight: 1
+      - path: root_controlCurve
+        weight: 1
+      - path: root_controlCurve/curve4
+        weight: 1
+      - path: root_controlCurve/root_jnt
+        weight: 1
+      - path: root_controlCurve/root_jnt/hip
+        weight: 1
+      - path: root_controlCurve/root_jnt/left_upperLeg_jnt
+        weight: 1
+      - path: root_controlCurve/root_jnt/left_upperLeg_jnt/left_lowerLeg_jnt
+        weight: 1
+      - path: root_controlCurve/root_jnt/left_upperLeg_jnt/left_lowerLeg_jnt/left_foot_jnt
+        weight: 1
+      - path: root_controlCurve/root_jnt/left_upperLeg_jnt/left_lowerLeg_jnt/left_foot_jnt/footBase_right
+        weight: 1
+      - path: root_controlCurve/root_jnt/left_upperLeg_jnt/left_lowerLeg_jnt/left_foot_jnt/left_frontToe_jnt
+        weight: 1
+      - path: root_controlCurve/root_jnt/left_upperLeg_jnt/left_lowerLeg_jnt/left_foot_jnt/left_frontToe_jnt/left_frontToeEnd_jnt
+        weight: 1
+      - path: root_controlCurve/root_jnt/left_upperLeg_jnt/left_lowerLeg_jnt/left_foot_jnt/left_frontToe_jnt/toeFront_right
+        weight: 1
+      - path: root_controlCurve/root_jnt/left_upperLeg_jnt/left_lowerLeg_jnt/left_foot_jnt/left_rearToe1_jnt
+        weight: 1
+      - path: root_controlCurve/root_jnt/left_upperLeg_jnt/left_lowerLeg_jnt/left_foot_jnt/left_rearToe1_jnt/left_rearToeEnd1_jnt
+        weight: 1
+      - path: root_controlCurve/root_jnt/left_upperLeg_jnt/left_lowerLeg_jnt/left_foot_jnt/left_rearToe1_jnt/toeBack1_left
+        weight: 1
+      - path: root_controlCurve/root_jnt/left_upperLeg_jnt/left_lowerLeg_jnt/left_foot_jnt/left_rearToe2_jnt
+        weight: 1
+      - path: root_controlCurve/root_jnt/left_upperLeg_jnt/left_lowerLeg_jnt/left_foot_jnt/left_rearToe2_jnt/left_rearToeEnd2_jnt
+        weight: 1
+      - path: root_controlCurve/root_jnt/left_upperLeg_jnt/left_lowerLeg_jnt/left_foot_jnt/left_rearToe2_jnt/toeBack2_left
+        weight: 1
+      - path: root_controlCurve/root_jnt/left_upperLeg_jnt/left_lowerLeg_jnt/legLower_right
+        weight: 1
+      - path: root_controlCurve/root_jnt/left_upperLeg_jnt/legUpper_right
+        weight: 1
+      - path: root_controlCurve/root_jnt/right_upperLeg_jnt
+        weight: 1
+      - path: root_controlCurve/root_jnt/right_upperLeg_jnt/legUpper_left
+        weight: 1
+      - path: root_controlCurve/root_jnt/right_upperLeg_jnt/right_lowerLeg_jnt
+        weight: 1
+      - path: root_controlCurve/root_jnt/right_upperLeg_jnt/right_lowerLeg_jnt/legLower_left
+        weight: 1
+      - path: root_controlCurve/root_jnt/right_upperLeg_jnt/right_lowerLeg_jnt/right_foot_jnt
+        weight: 1
+      - path: root_controlCurve/root_jnt/right_upperLeg_jnt/right_lowerLeg_jnt/right_foot_jnt/footBase_left
+        weight: 1
+      - path: root_controlCurve/root_jnt/right_upperLeg_jnt/right_lowerLeg_jnt/right_foot_jnt/right_frontToe_jnt
+        weight: 1
+      - path: root_controlCurve/root_jnt/right_upperLeg_jnt/right_lowerLeg_jnt/right_foot_jnt/right_frontToe_jnt/right_frontToeEnd_jnt
+        weight: 1
+      - path: root_controlCurve/root_jnt/right_upperLeg_jnt/right_lowerLeg_jnt/right_foot_jnt/right_frontToe_jnt/toeFront_left
+        weight: 1
+      - path: root_controlCurve/root_jnt/right_upperLeg_jnt/right_lowerLeg_jnt/right_foot_jnt/right_rearToe1_jnt
+        weight: 1
+      - path: root_controlCurve/root_jnt/right_upperLeg_jnt/right_lowerLeg_jnt/right_foot_jnt/right_rearToe1_jnt/right_frontToeEnd1_jnt
+        weight: 1
+      - path: root_controlCurve/root_jnt/right_upperLeg_jnt/right_lowerLeg_jnt/right_foot_jnt/right_rearToe1_jnt/toeBack1_left
+          1
+        weight: 1
+      - path: root_controlCurve/root_jnt/right_upperLeg_jnt/right_lowerLeg_jnt/right_foot_jnt/right_rearToe2_jnt
+        weight: 1
+      - path: root_controlCurve/root_jnt/right_upperLeg_jnt/right_lowerLeg_jnt/right_foot_jnt/right_rearToe2_jnt/right_frontToeEnd2_jnt
+        weight: 1
+      - path: root_controlCurve/root_jnt/right_upperLeg_jnt/right_lowerLeg_jnt/right_foot_jnt/right_rearToe2_jnt/toeBack2_left
+          1
+        weight: 1
+      - path: root_controlCurve/root_jnt/torso_jnt
+        weight: 1
+      - path: root_controlCurve/root_jnt/torso_jnt/torso
+        weight: 1
+      - path: root_controlCurve/root_jnt/torso_jnt/torso/rocketPad_left
+        weight: 1
+      - path: root_controlCurve/root_jnt/torso_jnt/torso/rocketPad_right
+        weight: 1
+      - path: root_controlCurve/root_jnt/torso_jnt/torsoEnd_jnt
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: walk
+      takeName: Take 001
+      firstFrame: 31
+      lastFrame: 45
+      wrapMode: 0
+      orientationOffsetY: 13.36
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: leftFoot_controlCurve
+        weight: 1
+      - path: leftFoot_controlCurve/joint10
+        weight: 1
+      - path: leftFoot_controlCurve/joint10/joint11
+        weight: 1
+      - path: leftFoot_controlCurve/joint10/joint11/ikHandle3
+        weight: 1
+      - path: leftFoot_controlCurve/joint10/joint11/joint12
+        weight: 1
+      - path: leftFoot_controlCurve/joint10/joint11/joint12/ikHandle2
+        weight: 1
+      - path: leftFoot_controlCurve/joint10/joint11/joint12/joint13
+        weight: 1
+      - path: leftFoot_controlCurve/joint10/joint11/joint12/joint13/ikHandle1
+        weight: 1
+      - path: rightFoot_controlCurve
+        weight: 1
+      - path: rightFoot_controlCurve/joint23
+        weight: 1
+      - path: rightFoot_controlCurve/joint23/joint24
+        weight: 1
+      - path: rightFoot_controlCurve/joint23/joint24/ikHandle6
+        weight: 1
+      - path: rightFoot_controlCurve/joint23/joint24/joint25
+        weight: 1
+      - path: rightFoot_controlCurve/joint23/joint24/joint25/ikHandle5
+        weight: 1
+      - path: rightFoot_controlCurve/joint23/joint24/joint25/joint26
+        weight: 1
+      - path: rightFoot_controlCurve/joint23/joint24/joint25/joint26/ikHandle4
+        weight: 1
+      - path: root_controlCurve
+        weight: 1
+      - path: root_controlCurve/curve4
+        weight: 1
+      - path: root_controlCurve/root_jnt
+        weight: 1
+      - path: root_controlCurve/root_jnt/hip
+        weight: 1
+      - path: root_controlCurve/root_jnt/left_upperLeg_jnt
+        weight: 1
+      - path: root_controlCurve/root_jnt/left_upperLeg_jnt/left_lowerLeg_jnt
+        weight: 1
+      - path: root_controlCurve/root_jnt/left_upperLeg_jnt/left_lowerLeg_jnt/left_foot_jnt
+        weight: 1
+      - path: root_controlCurve/root_jnt/left_upperLeg_jnt/left_lowerLeg_jnt/left_foot_jnt/footBase_right
+        weight: 1
+      - path: root_controlCurve/root_jnt/left_upperLeg_jnt/left_lowerLeg_jnt/left_foot_jnt/left_frontToe_jnt
+        weight: 1
+      - path: root_controlCurve/root_jnt/left_upperLeg_jnt/left_lowerLeg_jnt/left_foot_jnt/left_frontToe_jnt/left_frontToeEnd_jnt
+        weight: 1
+      - path: root_controlCurve/root_jnt/left_upperLeg_jnt/left_lowerLeg_jnt/left_foot_jnt/left_frontToe_jnt/toeFront_right
+        weight: 1
+      - path: root_controlCurve/root_jnt/left_upperLeg_jnt/left_lowerLeg_jnt/left_foot_jnt/left_rearToe1_jnt
+        weight: 1
+      - path: root_controlCurve/root_jnt/left_upperLeg_jnt/left_lowerLeg_jnt/left_foot_jnt/left_rearToe1_jnt/left_rearToeEnd1_jnt
+        weight: 1
+      - path: root_controlCurve/root_jnt/left_upperLeg_jnt/left_lowerLeg_jnt/left_foot_jnt/left_rearToe1_jnt/toeBack1_left
+        weight: 1
+      - path: root_controlCurve/root_jnt/left_upperLeg_jnt/left_lowerLeg_jnt/left_foot_jnt/left_rearToe2_jnt
+        weight: 1
+      - path: root_controlCurve/root_jnt/left_upperLeg_jnt/left_lowerLeg_jnt/left_foot_jnt/left_rearToe2_jnt/left_rearToeEnd2_jnt
+        weight: 1
+      - path: root_controlCurve/root_jnt/left_upperLeg_jnt/left_lowerLeg_jnt/left_foot_jnt/left_rearToe2_jnt/toeBack2_left
+        weight: 1
+      - path: root_controlCurve/root_jnt/left_upperLeg_jnt/left_lowerLeg_jnt/legLower_right
+        weight: 1
+      - path: root_controlCurve/root_jnt/left_upperLeg_jnt/legUpper_right
+        weight: 1
+      - path: root_controlCurve/root_jnt/right_upperLeg_jnt
+        weight: 1
+      - path: root_controlCurve/root_jnt/right_upperLeg_jnt/legUpper_left
+        weight: 1
+      - path: root_controlCurve/root_jnt/right_upperLeg_jnt/right_lowerLeg_jnt
+        weight: 1
+      - path: root_controlCurve/root_jnt/right_upperLeg_jnt/right_lowerLeg_jnt/legLower_left
+        weight: 1
+      - path: root_controlCurve/root_jnt/right_upperLeg_jnt/right_lowerLeg_jnt/right_foot_jnt
+        weight: 1
+      - path: root_controlCurve/root_jnt/right_upperLeg_jnt/right_lowerLeg_jnt/right_foot_jnt/footBase_left
+        weight: 1
+      - path: root_controlCurve/root_jnt/right_upperLeg_jnt/right_lowerLeg_jnt/right_foot_jnt/right_frontToe_jnt
+        weight: 1
+      - path: root_controlCurve/root_jnt/right_upperLeg_jnt/right_lowerLeg_jnt/right_foot_jnt/right_frontToe_jnt/right_frontToeEnd_jnt
+        weight: 1
+      - path: root_controlCurve/root_jnt/right_upperLeg_jnt/right_lowerLeg_jnt/right_foot_jnt/right_frontToe_jnt/toeFront_left
+        weight: 1
+      - path: root_controlCurve/root_jnt/right_upperLeg_jnt/right_lowerLeg_jnt/right_foot_jnt/right_rearToe1_jnt
+        weight: 1
+      - path: root_controlCurve/root_jnt/right_upperLeg_jnt/right_lowerLeg_jnt/right_foot_jnt/right_rearToe1_jnt/right_frontToeEnd1_jnt
+        weight: 1
+      - path: root_controlCurve/root_jnt/right_upperLeg_jnt/right_lowerLeg_jnt/right_foot_jnt/right_rearToe1_jnt/toeBack1_left
+          1
+        weight: 1
+      - path: root_controlCurve/root_jnt/right_upperLeg_jnt/right_lowerLeg_jnt/right_foot_jnt/right_rearToe2_jnt
+        weight: 1
+      - path: root_controlCurve/root_jnt/right_upperLeg_jnt/right_lowerLeg_jnt/right_foot_jnt/right_rearToe2_jnt/right_frontToeEnd2_jnt
+        weight: 1
+      - path: root_controlCurve/root_jnt/right_upperLeg_jnt/right_lowerLeg_jnt/right_foot_jnt/right_rearToe2_jnt/toeBack2_left
+          1
+        weight: 1
+      - path: root_controlCurve/root_jnt/torso_jnt
+        weight: 1
+      - path: root_controlCurve/root_jnt/torso_jnt/torso
+        weight: 1
+      - path: root_controlCurve/root_jnt/torso_jnt/torso/rocketPad_left
+        weight: 1
+      - path: root_controlCurve/root_jnt/torso_jnt/torso/rocketPad_right
+        weight: 1
+      - path: root_controlCurve/root_jnt/torso_jnt/torsoEnd_jnt
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 20
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: root_jnt
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
